@@ -1,4 +1,4 @@
-Pedro Machado da Silva here!
+Pedro Machado da Silva here! Graduating in Computer Engineering at UFPel, looking to improve my skills.
 <div align="center">
   <a href="https://github.com/pedromasi">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pedromasi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
